@@ -14,14 +14,6 @@
 
 ---
 
-### 🚀 What I’m About:
-- Skill > certificates  
-- Projects > tutorials  
-- Clarity > chaos  
-- Showing up > being perfect
-
----
-
 ### 📍 Next:
 - Finish CS50P and CS50 Introduction to Computer Science 
 - Move into **Java + DSA**  
