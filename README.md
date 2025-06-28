@@ -8,19 +8,27 @@
 
 ---
 
-## 💻 What I’m Working On
-
-- 🔁 **Student Score Predictor**- My first regression ML project (in progress)
-- 📊 **ML Portfolio**- Building real-world ML projects
-- 🧱 **Fundamentals**- Learning Computer Science fundamentals, programming languages along with completing my bachelors in CSE(AI-ML) engineering
+🎯 Currently mastering **Python** through Harvard’s [CS50P] and **Fundamentals of Computer Science** through Harvard's [CS50]
+🧠 Focused on writing real, clean code — no shortcuts, no copying  
+📂 Daily commits, CS50 projects, and reflections on progress
 
 ---
 
-## 🧭 My Current Goals
+### 🚀 What I’m About:
+- Skill > certificates  
+- Projects > tutorials  
+- Clarity > chaos  
+- Showing up > being perfect
 
-- ✅ Master core ML algorithms by building hands-on projects
-- 🚀 Publish all projects with clean code, README, and deployment
-- 🎯 Build a standout GitHub portfolio by end of the summer
+---
+
+### 📍 Next:
+- Finish CS50P and CS50 Introduction to Computer Science 
+- Move into **Java + DSA**  
+- Keep building — in public, with purpose
+
+> “I’m not there yet. But I’m training for it.”  
+
 
 --- 
 
